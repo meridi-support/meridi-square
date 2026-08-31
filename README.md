@@ -30,7 +30,7 @@ Want to share your snippets, request features, or discuss the future of MeridiSy
 
 ## 📧 Contact
 
-For feedback, feature requests, or bug reports: meridisupport@jsdelivr@gmail.com （※メールアドレスをご確認ください）
+For feedback, feature requests, or bug reports: meridisupport@gmail.com （※メールアドレスをご確認ください）
 
 ---
 
