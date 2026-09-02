@@ -2,6 +2,8 @@
 
 A lightweight, high-speed snippet management tool designed to streamline your daily typing tasks.
 
+- **Community-Driven:** Built as ver.1.0.0, this project thrives on collective wisdom. Bring your ideas, feedback, and "mad scientist" tweaks to help evolve this tool together!
+
 ## 📥 Download & Store
 
 - **Gumroad (Global):** [Coming Soon / Insert Link Here]
@@ -27,6 +29,9 @@ MeridiSync is currently at ver.1.0.0. We are looking forward to evolving this to
 ## 💬 Community & Discussions
 
 Want to share your snippets, request features, or discuss the future of MeridiSync? Join us on [GitHub Discussions](Insert_Link_Here)!
+
+### Support my work
+* [Buy Me a Coffee ☕](https://www.buymeacoffee.com/meridius)
 
 ## 📧 Contact
 
