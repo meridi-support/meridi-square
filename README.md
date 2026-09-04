@@ -14,6 +14,23 @@ A lightweight, high-speed snippet management tool designed to streamline your da
 - **Concept:** Ad-free, 100% Offline, and Lightweight.
 - **OS:** Windows Only (.exe)
 
+- ## ✨ Features
+
+| Feature | MeridiSync | Espanso | TextExpander |
+|---------|:----------:|:-------:|:------------:|
+| GUI Editor | ✅ | ❌ | ✅ |
+| {step:} Multi-step Wizard | ✅ | ❌ | ❌ |
+| Back/Next Navigation | ✅ | ❌ | ❌ |
+| {input:} Dynamic Prompts | ✅ | ❌ | ✅ |
+| Dark/Light Mode | ✅ | ❌ | ✅ |
+| Excel Import/Export | ✅ | ❌ | ❌ |
+| Usage Statistics | ✅ | ❌ | ✅ |
+| Category Management | ✅ | Manual | ✅ |
+| 100% Offline | ✅ | ✅ | ❌ |
+| Ad-free | ✅ | ✅ | ❌ |
+| Open to Modding | ✅ | ✅ | ❌ |
+| Price | $8 | Free | $3.33/mo |
+
 ## 🛠️ Tweak-Friendly & Contribution Welcome
 
 MeridiSync is currently at ver.1.0.0. We are looking forward to evolving this tool together with your ideas and insights!
