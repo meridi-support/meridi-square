@@ -17,7 +17,7 @@ A lightweight, high-speed snippet management tool designed to streamline your da
 ## 🛠️ Tweak-Friendly & Contribution Welcome
 
 MeridiSync is currently at ver.1.0.0. We are looking forward to evolving this tool together with your ideas and insights!
-- **Call for Ideas:** If you have a lightweight coding approach that avoids Java, please feel free to share your ideas, solutions, or PRs on GitHub!
+- **Call for Ideas:** If you have a lightweight coding approach, please feel free to share your ideas, solutions, or PRs on GitHub!
 
 ## ⚙️ 魔改造・アイデアの募集について
 
