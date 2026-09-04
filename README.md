@@ -23,7 +23,7 @@ A lightweight, high-speed snippet management tool designed to streamline your da
 | Back/Next Navigation | ✅ | ❌ | ❌ |
 | {input:} Dynamic Prompts | ✅ | ❌ | ✅ |
 | Dark/Light Mode | ✅ | ❌ | ✅ |
-| Excel Import/Export | ✅ | ❌ | ❌ |
+| Excel Import/Export | ✅ | ❌ | ✅ |
 | Usage Statistics | ✅ | ❌ | ✅ |
 | Category Management | ✅ | Manual | ✅ |
 | 100% Offline | ✅ | ✅ | ❌ |
