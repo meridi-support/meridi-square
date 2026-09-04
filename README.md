@@ -28,6 +28,18 @@ MeridiSync is currently at ver.1.0.0. We are looking forward to evolving this to
 
 Want to share your snippets, request features, or discuss the future of MeridiSync? Join us on [GitHub Discussions](Insert_Link_Here)!
 
+🌐 Meridi Family
+| Tool | Description | Link |
+|------|-------------|------|
+| **MeridiSync** | High-speed snippet manager (Windows) | [Download](#) |
+| **MeridiMeet** | Multi-Timezone Scheduler - No ads, No signup | [Try it Free](https://meridi-support.github.io/meridimeet/) |
+
+🌐 Meridi ファミリー
+| ツール | 説明 | リンク |
+|--------|------|--------|
+| **MeridiSync** | 高速スニペット管理ツール (Windows) | [ダウンロード](#) |
+| **MeridiMeet** | 時差調整ツール - 広告なし・登録不要 | [無料で使う](https://meridi-support.github.io/meridimeet/) |
+
 ### Support my work
 * [Buy Me a Coffee ☕](https://www.buymeacoffee.com/meridius)
 
