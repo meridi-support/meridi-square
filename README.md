@@ -54,7 +54,7 @@ Want to share your snippets, request features, or discuss the future of MeridiSy
 🌐 Meridi ファミリー
 | ツール | 説明 | リンク |
 |--------|------|--------|
-| **MeridiSync** | 高速スニペット管理ツール (Windows) | [ダウンロード](#) |
+| **MeridiSync** | 高速スニペット管理ツール (Windows) | [ダウンロード](https://meridistore.booth.pm/items/8790105) |
 | **MeridiMeet** | 時差調整ツール - 広告なし・登録不要 | [無料で使う](https://meridi-support.github.io/meridimeet/) |
 
 ### Support my work
