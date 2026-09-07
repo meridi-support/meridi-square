@@ -6,15 +6,19 @@ A lightweight, high-speed snippet management tool designed to streamline your da
 
 ## 📥 Download & Store
 
-- **Gumroad (Global):** [Coming Soon / Insert Link Here]
-- **BOOTH (Japan):** [Coming Soon / Insert Link Here]
+| Store | Market | Price | Link |
+|-------|--------|-------|------|
+| 🌍 **Gumroad** | International | $8 | [Buy on Gumroad](https://meridius4.gumroad.com/l/meridisync) |
+| 🇯🇵 **BOOTH** | Japan | ¥1,000 | [Buy on BOOTH](https://meridistore.booth.pm/items/8790105) |
+
+> 💡 One-time purchase. No subscription, no hidden fees.
 
 ## 🚀 Overview
 
 - **Concept:** Ad-free, 100% Offline, and Lightweight.
 - **OS:** Windows Only (.exe)
 
-- ## ✨ Features
+## ✨ Features
 
 | Feature | MeridiSync | Espanso | TextExpander |
 |---------|:----------:|:-------:|:------------:|
@@ -43,12 +47,12 @@ MeridiSync is currently at ver.1.0.0. We are looking forward to evolving this to
 
 ## 💬 Community & Discussions
 
-Want to share your snippets, request features, or discuss the future of MeridiSync? Join us on [GitHub Discussions](Insert_Link_Here)!
+Want to share your snippets, request features, or discuss the future of MeridiSync? Join us on [GitHub Discussions](https://github.com/meridi-support/meridi-square/discussions)
 
 🌐 Meridi Family
 | Tool | Description | Link |
 |------|-------------|------|
-| **MeridiSync** | High-speed snippet manager (Windows) | [Download](#) |
+| **MeridiSync** | High-speed snippet manager (Windows) | [Gumroad ($8)](https://meridius4.gumroad.com/l/meridisync) / [BOOTH (¥1,000)](https://meridistore.booth.pm/items/8790105) |
 | **MeridiMeet** | Multi-Timezone Scheduler - No ads, No signup | [Try it Free](https://meridi-support.github.io/meridimeet/) |
 
 🌐 Meridi ファミリー
