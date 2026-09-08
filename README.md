@@ -1,3 +1,4 @@
+
 # MeridiSync
 
 A lightweight, high-speed snippet management tool designed to streamline your daily typing tasks.
@@ -10,13 +11,29 @@ A lightweight, high-speed snippet management tool designed to streamline your da
 |-------|--------|-------|------|
 | 🌍 **Gumroad** | International | $8 | [Buy on Gumroad](https://meridius4.gumroad.com/l/meridisync) |
 | 🇯🇵 **BOOTH** | Japan | ¥1,000 | [Buy on BOOTH](https://meridistore.booth.pm/items/8790105) |
+| 🆓 **GitHub** | Open Source | Free | [Download from Releases](https://github.com/meridi-support/meridi-square/releases) |
+| ☕ **Support** | — | Any amount | [Buy Me a Coffee](https://www.buymeacoffee.com/meridius) |
 
-> 💡 One-time purchase. No subscription, no hidden fees.
+> 💡 MeridiSync is open-source under MIT License — free to use, modify, and share.
+> Purchasing on Gumroad or BOOTH directly supports the developer and future updates. Thank you! 🐟
 
 ## 🚀 Overview
 
 - **Concept:** Ad-free, 100% Offline, and Lightweight.
 - **OS:** Windows Only (.exe)
+
+## 📦 Built-in Templates — Ready to Use
+
+MeridiSync comes with 4 practical templates pre-installed:
+
+| Trigger | Output | Example |
+|---------|--------|---------|
+| `.today` | Today's date | 2026-09-08 |
+| `.now` | Current date & time | 2026-09-08 09:30 |
+| `.week` | Day of the week | Tuesday |
+| `.date_jp` | Japanese date format | 令和8年9月8日（火） |
+
+> 💡 Type a trigger, and your text expands instantly — no delay, no internet, no hassle.
 
 ## ✨ Features
 
@@ -60,9 +77,6 @@ Want to share your snippets, request features, or discuss the future of MeridiSy
 |--------|------|--------|
 | **MeridiSync** | 高速スニペット管理ツール (Windows) | [ダウンロード](https://meridistore.booth.pm/items/8790105) |
 | **MeridiMeet** | 時差調整ツール - 広告なし・登録不要 | [無料で使う](https://meridi-support.github.io/meridimeet/) |
-
-### Support my work
-* [Buy Me a Coffee ☕](https://www.buymeacoffee.com/meridius)
 
 ## 📧 Contact
 
