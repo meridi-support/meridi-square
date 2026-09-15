@@ -28,29 +28,37 @@ MeridiSync comes with 4 practical templates pre-installed:
 
 | Trigger | Output | Example |
 |---------|--------|---------|
-| `.today` | Today's date | 2026-09-08 |
-| `.now` | Current date & time | 2026-09-08 09:30 |
-| `.week` | Day of the week | Tuesday |
-| `.date_jp` | Japanese date format | 令和8年9月8日（火） |
+| `.today` | Today's date | 2026-09-15 |
+| `.now` | Current date & time | 2026-09-15 09:30 |
+| `.week` | Day of the week | Monday |
+| `.date_jp` | Japanese date format | 令和8年9月15日（月） |
 
 > 💡 Type a trigger, and your text expands instantly — no delay, no internet, no hassle.
 
-## ✨ Features
+## 📊 Quick Specs
 
-| Feature | MeridiSync | Espanso | TextExpander |
-|---------|:----------:|:-------:|:------------:|
-| GUI Editor | ✅ | ❌ | ✅ |
-| {step:} Multi-step Wizard | ✅ | ❌ | ❌ |
-| Back/Next Navigation | ✅ | ❌ | ❌ |
-| {input:} Dynamic Prompts | ✅ | ❌ | ✅ |
-| Dark/Light Mode | ✅ | ❌ | ✅ |
-| Excel Import/Export | ✅ | ❌ | ✅ |
-| Usage Statistics | ✅ | ❌ | ✅ |
-| Category Management | ✅ | Manual | ✅ |
-| 100% Offline | ✅ | ✅ | ❌ |
-| Ad-free | ✅ | ✅ | ❌ |
-| Open to Modding | ✅ | ✅ | ❌ |
-| Price | $8 | Free | $3.33/mo |
+| Spec | Detail |
+|------|--------|
+| Category | Offline Text Expander / Productivity Tool |
+| Price | $8 / ¥1,000 (one-time — no subscription, ever) |
+| License | MIT (mod-friendly — customize freely) |
+| Size | 29.9 MB (portable ZIP — no install needed) |
+| OS | Windows 10 / 11 |
+| Language | Bilingual (English / Japanese) |
+| Internet | Not required (works 100% offline) |
+| Ads/Tracking | None. Ever. |
+
+## ✨ Key Features
+
+- **GUI Editor** — No YAML, no config files. Visual editing, done.
+- **{step:} Multi-step Wizard** — Back/Next guided text flows.
+- **{input:} Dynamic Prompts** — Insert custom values at expansion time.
+- **Dark/Light Mode** — Easy on the eyes, day or night.
+- **Excel Import/Export** — Manage snippets in bulk.
+- **Usage Statistics** — See which snippets you use most.
+- **Category Management** — Organize your snippets your way.
+- **100% Offline** — No internet, no tracking, no ads.
+- **Open to Modding (MIT)** — Make it yours.
 
 ## 🛠️ Tweak-Friendly & Contribution Welcome
 
@@ -66,13 +74,15 @@ MeridiSync is currently at ver.1.0.0. We are looking forward to evolving this to
 
 Want to share your snippets, request features, or discuss the future of MeridiSync? Join us on [GitHub Discussions](https://github.com/meridi-support/meridi-square/discussions)
 
-🌐 Meridi Family
+## 🌐 Meridi Family
+
 | Tool | Description | Link |
 |------|-------------|------|
 | **MeridiSync** | High-speed snippet manager (Windows) | [Gumroad ($8)](https://meridius4.gumroad.com/l/meridisync) / [BOOTH (¥1,000)](https://meridistore.booth.pm/items/8790105) |
 | **MeridiMeet** | Multi-Timezone Scheduler - No ads, No signup | [Try it Free](https://meridi-support.github.io/meridimeet/) |
 
-🌐 Meridi ファミリー
+## 🌐 Meridi ファミリー
+
 | ツール | 説明 | リンク |
 |--------|------|--------|
 | **MeridiSync** | 高速スニペット管理ツール (Windows) | [ダウンロード](https://meridistore.booth.pm/items/8790105) |
@@ -80,7 +90,7 @@ Want to share your snippets, request features, or discuss the future of MeridiSy
 
 ## 📧 Contact
 
-For feedback, feature requests, or bug reports: meridisupport@gmail.com （※メールアドレスをご確認ください）
+For feedback, feature requests, or bug reports: meridisupport@gmail.com
 
 ---
 
