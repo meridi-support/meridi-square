@@ -17,6 +17,12 @@ A lightweight, high-speed snippet management tool designed to streamline your da
 > 💡 MeridiSync is open-source under MIT License — free to use, modify, and share.
 > Purchasing on Gumroad or BOOTH directly supports the developer and future updates. Thank you! 🐟
 
+## 🎮 Try Before You Buy
+
+Experience MeridiSync in your browser — no download, no signup required.
+
+🔗 **[Launch Demo](https://meridi-support.github.io/meridisync-demo/)**
+
 ## 🚀 Overview
 
 - **Concept:** Ad-free, 100% Offline, and Lightweight.
@@ -76,17 +82,19 @@ Want to share your snippets, request features, or discuss the future of MeridiSy
 
 ## 🌐 Meridi Family
 
-| Tool | Description | Link |
-|------|-------------|------|
-| **MeridiSync** | High-speed snippet manager (Windows) | [Gumroad ($8)](https://meridius4.gumroad.com/l/meridisync) / [BOOTH (¥1,000)](https://meridistore.booth.pm/items/8790105) |
-| **MeridiMeet** | Multi-Timezone Scheduler - No ads, No signup | [Try it Free](https://meridi-support.github.io/meridimeet/) |
+| Tool | Description | Link | Demo |
+|------|-------------|------|------|
+| **MeridiSync** | High-speed snippet manager (Windows) | [Gumroad ($8)](https://meridius4.gumroad.com/l/meridisync) / [BOOTH (¥1,000)](https://meridistore.booth.pm/items/8790105) | [Try Free](https://meridi-support.github.io/meridisync-demo/) |
+| **MeridiMeet** | Multi-Timezone Scheduler - No ads, No signup | [Try it Free](https://meridi-support.github.io/meridimeet/) | — |
+
 
 ## 🌐 Meridi ファミリー
 
-| ツール | 説明 | リンク |
-|--------|------|--------|
-| **MeridiSync** | 高速スニペット管理ツール (Windows) | [ダウンロード](https://meridistore.booth.pm/items/8790105) |
-| **MeridiMeet** | 時差調整ツール - 広告なし・登録不要 | [無料で使う](https://meridi-support.github.io/meridimeet/) |
+| ツール | 説明 | リンク | デモ |
+|--------|------|--------|------|
+| **MeridiSync** | 高速スニペット管理ツール (Windows) | [ダウンロード](https://meridistore.booth.pm/items/8790105) | [無料で体験](https://meridi-support.github.io/meridisync-demo/) |
+| **MeridiMeet** | 時差調整ツール - 広告なし・登録不要 | [無料で使う](https://meridi-support.github.io/meridimeet/) | — |
+
 
 ## 📧 Contact
 
