@@ -86,6 +86,7 @@ Want to share your snippets, request features, or discuss the future of MeridiSy
 |------|-------------|------|------|
 | **MeridiSync** | High-speed snippet manager (Windows) | [Gumroad ($8)](https://meridius4.gumroad.com/l/meridisync) / [BOOTH (¥1,000)](https://meridistore.booth.pm/items/8790105) | [Try Free](https://meridi-support.github.io/meridisync-demo/) |
 | **MeridiMeet** | Multi-Timezone Scheduler - No ads, No signup | [Try it Free](https://meridi-support.github.io/meridimeet/) | — |
+| **MeridiLingo** | Learn English Through Pop Culture (Windows) | [Gumroad ($3)](https://meridius4.gumroad.com/l/meridilingo) / [BOOTH (¥500)](https://meridistore.booth.pm/items/8992102) | Coming Soon |
 
 
 ## 🌐 Meridi ファミリー
@@ -94,6 +95,7 @@ Want to share your snippets, request features, or discuss the future of MeridiSy
 |--------|------|--------|------|
 | **MeridiSync** | 高速スニペット管理ツール (Windows) | [ダウンロード](https://meridistore.booth.pm/items/8790105) | [無料で体験](https://meridi-support.github.io/meridisync-demo/) |
 | **MeridiMeet** | 時差調整ツール - 広告なし・登録不要 | [無料で使う](https://meridi-support.github.io/meridimeet/) | — |
+| **MeridiLingo** | ポップカルチャーで学ぶ英語表現集 (Windows) | [Gumroad ($3)](https://meridius4.gumroad.com/l/meridilingo) / [BOOTH (¥500)](https://meridistore.booth.pm/items/8992102) | 準備中 |
 
 
 ## 📧 Contact
