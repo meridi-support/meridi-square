@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="MeridiSync.jpg" alt="MeridiSync" width="100%">
+</p>
 
 # MeridiSync
 
