@@ -97,22 +97,22 @@ Want to share your snippets, request features, or discuss the future of MeridiSy
 | Tool | Description | Link | Live Demo |
 |------|-------------|------|-----------|
 | 💻 **MeridiSync** | High-speed snippet manager (Windows) | [Gumroad ($8)](https://meridius4.gumroad.com/l/meridisync) / [BOOTH (¥1,000)](https://meridistore.booth.pm/items/8790105) | [Try Free](https://meridi-support.github.io/meridisync-demo/) |
-| 📅 **MeridiMeet** | Multi-Timezone Scheduler — No ads, No signup | [Gumroad (Free)](https://meridius4.gumroad.com/l/meridimeet) / [BOOTH (Free)](https://meridistore.booth.pm/items/6340573) | [meridibrand.com/meet](https://meridibrand.com/meet) |
-| 🐾🪄 **MeridiLingo** | 450 expressions — Learn English Through Pop Culture | [Gumroad (Free)](https://meridius4.gumroad.com/l/meridilingo) / [BOOTH (Free)](https://meridistore.booth.pm/items/8992102) | [meridibrand.com/lingo](https://meridibrand.com/lingo) |
+| 📅 **MeridiMeet** | Multi-Timezone Scheduler — No ads, No signup | [Gumroad (Free)](https://meridius4.gumroad.com/l/meridimeet) / [BOOTH (Free)](https://meridistore.booth.pm/items/8814602) | [meridibrand.com/meet](https://meridibrand.com/meet) |
+| 🐾🪄 **MeridiLingo** | 560 expressions — Language, Culture & AI Prompt Vocabulary | [Gumroad (Free)](https://meridius4.gumroad.com/l/meridilingo) / [BOOTH (Free)](https://meridistore.booth.pm/items/8992102) | [meridibrand.com/lingo](https://meridibrand.com/lingo) |
 | 🗺️ **MeridiAtlas** | GIS for the Rest of Us | In Development | — |
 | 📔 **MeridiDiary** | Your Journey, Your Map | Planned | — |
-| 🎮 **MeridiPlay** | Fun & Games Collection | Coming Soon | — |
+| 🎮 **MeridiPlay** | Fun & Games Collection (6 Modes) | Coming Soon | — |
 
 ## 🌐 Meridi ファミリー
 
 | ツール | 説明 | リンク | ライブデモ |
 |--------|------|--------|-----------|
 | 💻 **MeridiSync** | 高速スニペット管理ツール (Windows) | [ダウンロード](https://meridistore.booth.pm/items/8790105) | [無料で体験](https://meridi-support.github.io/meridisync-demo/) |
-| 📅 **MeridiMeet** | 時差調整ツール — 広告なし・登録不要 | [BOOTH (無料)](https://meridistore.booth.pm/items/6340573) | [meridibrand.com/meet](https://meridibrand.com/meet) |
-| 🐾🪄 **MeridiLingo** | 450表現 — ポップカルチャーで学ぶ英語表現集 | [BOOTH (無料)](https://meridistore.booth.pm/items/8992102) | [meridibrand.com/lingo](https://meridibrand.com/lingo) |
+| 📅 **MeridiMeet** | 時差調整ツール — 広告なし・登録不要 | [BOOTH (無料)](https://meridistore.booth.pm/items/8814602) | [meridibrand.com/meet](https://meridibrand.com/meet) |
+| 🐾🪄 **MeridiLingo** | 560表現 — 言語・文化・AIプロンプト語彙集 | [BOOTH (無料)](https://meridistore.booth.pm/items/8992102) | [meridibrand.com/lingo](https://meridibrand.com/lingo) |
 | 🗺️ **MeridiAtlas** | 地図インテリジェンスツール | 開発中 | — |
 | 📔 **MeridiDiary** | あなたの旅、あなたの地図 | 計画中 | — |
-| 🎮 **MeridiPlay** | ゲーム＆エンタメコレクション | 準備中 | — |
+| 🎮 **MeridiPlay** | ゲーム＆エンタメコレクション（6モード） | 準備中 | — |
 
 ---
 
@@ -134,4 +134,3 @@ MeridiSyncは、日常のタイピング作業を効率化するスニペット�
 *No Ads. No Subscriptions. Just Tools.* 🐾
 
 **Meridi Brand © 2026 — Since November 1st, 2026**
-
