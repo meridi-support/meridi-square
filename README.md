@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="MeridiSync.jpg" alt="MeridiSync" width="100%">
 </p>
@@ -16,7 +15,7 @@ A lightweight, high-speed snippet management tool designed to streamline your da
 | 🌍 **Gumroad** | International | $8 | [Buy on Gumroad](https://meridius4.gumroad.com/l/meridisync) |
 | 🇯🇵 **BOOTH** | Japan | ¥1,000 | [Buy on BOOTH](https://meridistore.booth.pm/items/8790105) |
 | 🆓 **GitHub** | Open Source | Free | [Download from Releases](https://github.com/meridi-support/meridi-square/releases) |
-| ☕ **Support** | — | Any amount | [Buy Me a Coffee](https://www.buymeacoffee.com/meridius) |
+| ☕ **Support** | — | Any amount | [Buy Me a Coffee](https://buymeacoffee.com/meridius) |
 
 > 💡 MeridiSync is open-source under MIT License — free to use, modify, and share.
 > Purchasing on Gumroad or BOOTH directly supports the developer and future updates. Thank you! 🐟
@@ -99,9 +98,10 @@ Want to share your snippets, request features, or discuss the future of MeridiSy
 | 💻 **MeridiSync** | High-speed snippet manager (Windows) | [Gumroad ($8)](https://meridius4.gumroad.com/l/meridisync) / [BOOTH (¥1,000)](https://meridistore.booth.pm/items/8790105) | [Try Free](https://meridi-support.github.io/meridisync-demo/) |
 | 📅 **MeridiMeet** | Multi-Timezone Scheduler — No ads, No signup | [Gumroad (Free)](https://meridius4.gumroad.com/l/meridimeet) / [BOOTH (Free)](https://meridistore.booth.pm/items/8814602) | [meridibrand.com/meet](https://meridibrand.com/meet) |
 | 🐾🪄 **MeridiLingo** | 560 expressions — Language, Culture & AI Prompt Vocabulary | [Gumroad (Free)](https://meridius4.gumroad.com/l/meridilingo) / [BOOTH (Free)](https://meridistore.booth.pm/items/8992102) | [meridibrand.com/lingo](https://meridibrand.com/lingo) |
+| 🌌 **MeridiStars** | Planetarium — 88 constellations, 119 locations | Free | [meridibrand.com/stars](https://meridibrand.com/stars) |
+| 🎮 **MeridiPlay** | 18 browser games — casino, fortune-telling, retro candy-shop machines | Free | [meridibrand.com/play](https://meridibrand.com/play) |
 | 🗺️ **MeridiAtlas** | GIS for the Rest of Us | In Development | — |
 | 📔 **MeridiDiary** | Your Journey, Your Map | Planned | — |
-| 🎮 **MeridiPlay** | Fun & Games Collection (6 Modes) | Coming Soon | — |
 
 ## 🌐 Meridi ファミリー
 
@@ -110,9 +110,10 @@ Want to share your snippets, request features, or discuss the future of MeridiSy
 | 💻 **MeridiSync** | 高速スニペット管理ツール (Windows) | [ダウンロード](https://meridistore.booth.pm/items/8790105) | [無料で体験](https://meridi-support.github.io/meridisync-demo/) |
 | 📅 **MeridiMeet** | 時差調整ツール — 広告なし・登録不要 | [BOOTH (無料)](https://meridistore.booth.pm/items/8814602) | [meridibrand.com/meet](https://meridibrand.com/meet) |
 | 🐾🪄 **MeridiLingo** | 560表現 — 言語・文化・AIプロンプト語彙集 | [BOOTH (無料)](https://meridistore.booth.pm/items/8992102) | [meridibrand.com/lingo](https://meridibrand.com/lingo) |
+| 🌌 **MeridiStars** | ブラウザで動くプラネタリウム — 88星座・世界119か所 | 無料 | [meridibrand.com/stars](https://meridibrand.com/stars) |
+| 🎮 **MeridiPlay** | 無料ブラウザゲーム18種 — カジノ・占い・駄菓子屋レトロ | 無料 | [meridibrand.com/play](https://meridibrand.com/play) |
 | 🗺️ **MeridiAtlas** | 地図インテリジェンスツール | 開発中 | — |
 | 📔 **MeridiDiary** | あなたの旅、あなたの地図 | 計画中 | — |
-| 🎮 **MeridiPlay** | ゲーム＆エンタメコレクション（6モード） | 準備中 | — |
 
 ---
 
