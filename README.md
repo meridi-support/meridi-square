@@ -99,6 +99,7 @@ Want to share your snippets, request features, or discuss the future of MeridiSy
 | 📅 **MeridiMeet** | Multi-Timezone Scheduler — No ads, No signup | [Gumroad (Free)](https://meridius4.gumroad.com/l/meridimeet) / [BOOTH (Free)](https://meridistore.booth.pm/items/8814602) | [meridibrand.com/meet](https://meridibrand.com/meet) |
 | 🐾🪄 **MeridiLingo** | 560 expressions — Language, Culture & AI Prompt Vocabulary | [Gumroad (Free)](https://meridius4.gumroad.com/l/meridilingo) / [BOOTH (Free)](https://meridistore.booth.pm/items/8992102) | [meridibrand.com/lingo](https://meridibrand.com/lingo) |
 | 🌌 **MeridiStars** | Planetarium — 88 constellations, 119 locations | Free | [meridibrand.com/stars](https://meridibrand.com/stars) |
+| 🌊 **MeridiDepths** | Dive to the deepest ocean — 230+ sea creatures, shipwrecks & records, 11 deep places | Free | [meridibrand.com/depths](https://meridibrand.com/depths) |
 | 🎮 **MeridiPlay** | 18 browser games — casino, fortune-telling, retro candy-shop machines | Free | [meridibrand.com/play](https://meridibrand.com/play) |
 | 🗺️ **MeridiAtlas** | GIS for the Rest of Us | In Development | — |
 | 📔 **MeridiDiary** | Your Journey, Your Map | Planned | — |
@@ -111,9 +112,14 @@ Want to share your snippets, request features, or discuss the future of MeridiSy
 | 📅 **MeridiMeet** | 時差調整ツール — 広告なし・登録不要 | [BOOTH (無料)](https://meridistore.booth.pm/items/8814602) | [meridibrand.com/meet](https://meridibrand.com/meet) |
 | 🐾🪄 **MeridiLingo** | 560表現 — 言語・文化・AIプロンプト語彙集 | [BOOTH (無料)](https://meridistore.booth.pm/items/8992102) | [meridibrand.com/lingo](https://meridibrand.com/lingo) |
 | 🌌 **MeridiStars** | ブラウザで動くプラネタリウム — 88星座・世界119か所 | 無料 | [meridibrand.com/stars](https://meridibrand.com/stars) |
+| 🌊 **MeridiDepths** | 海面から海溝の底まで潜る深海図鑑 — 生き物・沈没船・記録 230 件以上、世界の 11 か所 | 無料 | [meridibrand.com/depths](https://meridibrand.com/depths) |
 | 🎮 **MeridiPlay** | 無料ブラウザゲーム18種 — カジノ・占い・駄菓子屋レトロ | 無料 | [meridibrand.com/play](https://meridibrand.com/play) |
 | 🗺️ **MeridiAtlas** | 地図インテリジェンスツール | 開発中 | — |
 | 📔 **MeridiDiary** | あなたの旅、あなたの地図 | 計画中 | — |
+
+---
+
+MeridiSync → MeridiMeet → MeridiLingo → MeridiStars → 🌊 MeridiDepths → MeridiPlay → MeridiAtlas → MeridiDiary
 
 ---
 
