@@ -95,12 +95,14 @@ Want to share your snippets, request features, or discuss the future of MeridiSy
 
 | Tool | Description | Link | Live Demo |
 |------|-------------|------|-----------|
-| 💻 **MeridiSync** | High-speed snippet manager (Windows) | [Gumroad ($8)](https://meridius4.gumroad.com/l/meridisync) / [BOOTH (¥1,000)](https://meridistore.booth.pm/items/8790105) | [Try Free](https://meridi-support.github.io/meridisync-demo/) |
+| 💻 **MeridiSync** | High-speed snippet manager (Windows) | [Gumroad (\$8)](https://meridius4.gumroad.com/l/meridisync) / [BOOTH (¥1,000)](https://meridistore.booth.pm/items/8790105) | [Try Free](https://meridi-support.github.io/meridisync-demo/) |
 | 📅 **MeridiMeet** | Multi-Timezone Scheduler — No ads, No signup | [Gumroad (Free)](https://meridius4.gumroad.com/l/meridimeet) / [BOOTH (Free)](https://meridistore.booth.pm/items/8814602) | [meridibrand.com/meet](https://meridibrand.com/meet) |
-| 🐾🪄 **MeridiLingo** | 560 expressions — Language, Culture & AI Prompt Vocabulary | [Gumroad (Free)](https://meridius4.gumroad.com/l/meridilingo) / [BOOTH (Free)](https://meridistore.booth.pm/items/8992102) | [meridibrand.com/lingo](https://meridibrand.com/lingo) |
+| 🐾🪄 **MeridiLingo** | 760+ expressions & AI prompts — Language, Culture & AI Prompt Vocabulary | [Gumroad (Free)](https://meridius4.gumroad.com/l/meridilingo) / [BOOTH (Free)](https://meridistore.booth.pm/items/8992102) | [meridibrand.com/lingo](https://meridibrand.com/lingo) |
 | 🌌 **MeridiStars** | Planetarium — 88 constellations, 119 locations | Free | [meridibrand.com/stars](https://meridibrand.com/stars) |
+| 🪨 **MeridiGround** | From the sky to Earth's core — rock strata, fossils & the mantle | Coming Soon | — |
 | 🌊 **MeridiDepths** | Dive to the deepest ocean — 230+ sea creatures, shipwrecks & records, 11 deep places | Free | [meridibrand.com/depths](https://meridibrand.com/depths) |
 | 🎮 **MeridiPlay** | 18 browser games — casino, fortune-telling, retro candy-shop machines | Free | [meridibrand.com/play](https://meridibrand.com/play) |
+| 🧮 **MeridiConvert** | Unit converter, graph-paper drafting & handy calculators | Free | [meridibrand.com/convert](https://meridibrand.com/convert) |
 | 🗺️ **MeridiAtlas** | GIS for the Rest of Us | In Development | — |
 | 📔 **MeridiDiary** | Your Journey, Your Map | Planned | — |
 
@@ -110,16 +112,18 @@ Want to share your snippets, request features, or discuss the future of MeridiSy
 |--------|------|--------|-----------|
 | 💻 **MeridiSync** | 高速スニペット管理ツール (Windows) | [ダウンロード](https://meridistore.booth.pm/items/8790105) | [無料で体験](https://meridi-support.github.io/meridisync-demo/) |
 | 📅 **MeridiMeet** | 時差調整ツール — 広告なし・登録不要 | [BOOTH (無料)](https://meridistore.booth.pm/items/8814602) | [meridibrand.com/meet](https://meridibrand.com/meet) |
-| 🐾🪄 **MeridiLingo** | 560表現 — 言語・文化・AIプロンプト語彙集 | [BOOTH (無料)](https://meridistore.booth.pm/items/8992102) | [meridibrand.com/lingo](https://meridibrand.com/lingo) |
+| 🐾🪄 **MeridiLingo** | 760以上の表現と AI プロンプト — 言語・文化・AIプロンプト語彙集 | [BOOTH (無料)](https://meridistore.booth.pm/items/8992102) | [meridibrand.com/lingo](https://meridibrand.com/lingo) |
 | 🌌 **MeridiStars** | ブラウザで動くプラネタリウム — 88星座・世界119か所 | 無料 | [meridibrand.com/stars](https://meridibrand.com/stars) |
+| 🪨 **MeridiGround** | 空の上から地球の中心まで — 地層・化石・マントル | 近日公開 | — |
 | 🌊 **MeridiDepths** | 海面から海溝の底まで潜る深海図鑑 — 生き物・沈没船・記録 230 件以上、世界の 11 か所 | 無料 | [meridibrand.com/depths](https://meridibrand.com/depths) |
 | 🎮 **MeridiPlay** | 無料ブラウザゲーム18種 — カジノ・占い・駄菓子屋レトロ | 無料 | [meridibrand.com/play](https://meridibrand.com/play) |
+| 🧮 **MeridiConvert** | 尺・坪・合も使える単位変換、方眼紙の作図、現場の計算 | 無料 | [meridibrand.com/convert](https://meridibrand.com/convert) |
 | 🗺️ **MeridiAtlas** | 地図インテリジェンスツール | 開発中 | — |
 | 📔 **MeridiDiary** | あなたの旅、あなたの地図 | 計画中 | — |
 
 ---
 
-MeridiSync → MeridiMeet → MeridiLingo → MeridiStars → 🌊 MeridiDepths → MeridiPlay → MeridiAtlas → MeridiDiary
+💻 MeridiSync → 📅 MeridiMeet → 🐾 MeridiLingo → 🌌 MeridiStars → 🪨 MeridiGround → 🌊 MeridiDepths → 🎮 MeridiPlay → 🧮 MeridiConvert → 🗺️ MeridiAtlas → 📔 MeridiDiary
 
 ---
 
