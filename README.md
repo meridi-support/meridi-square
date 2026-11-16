@@ -103,7 +103,7 @@ Want to share your snippets, request features, or discuss the future of MeridiSy
 | 🌊 **MeridiDepths** | Dive to the deepest ocean — 230+ sea creatures, shipwrecks & records, 11 deep places | Free | [meridibrand.com/depths](https://meridibrand.com/depths) |
 | 🎮 **MeridiPlay** | 18 browser games — casino, fortune-telling, retro candy-shop machines | Free | [meridibrand.com/play](https://meridibrand.com/play) |
 | 🧮 **MeridiConvert** | Unit converter, graph-paper drafting & handy calculators | Free | [meridibrand.com/convert](https://meridibrand.com/convert) |
-| 🧰 **Meridi Tools** | Ad-free toolbox — timer & scoreboard, text cleaner, TRPG dice, direct QR codes, photo location remover | **Free** | [meridibrand.com/tools](https://meridibrand.com/tools) |
+| 🧰 **Meridi Tools** | Ad-free toolbox — timer & scoreboard, text cleaner, TRPG dice, direct QR codes, photo location remover | Free | [meridibrand.com/tools](https://meridibrand.com/tools) |
 | 🗺️ **MeridiAtlas** | GIS for the Rest of Us | In Development | — |
 | 📔 **MeridiDiary** | Your Journey, Your Map | Planned | — |
 
