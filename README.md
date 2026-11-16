@@ -103,6 +103,7 @@ Want to share your snippets, request features, or discuss the future of MeridiSy
 | 🌊 **MeridiDepths** | Dive to the deepest ocean — 230+ sea creatures, shipwrecks & records, 11 deep places | Free | [meridibrand.com/depths](https://meridibrand.com/depths) |
 | 🎮 **MeridiPlay** | 18 browser games — casino, fortune-telling, retro candy-shop machines | Free | [meridibrand.com/play](https://meridibrand.com/play) |
 | 🧮 **MeridiConvert** | Unit converter, graph-paper drafting & handy calculators | Free | [meridibrand.com/convert](https://meridibrand.com/convert) |
+| 🧰 **Meridi Tools** | Ad-free toolbox — timer & scoreboard, text cleaner, TRPG dice, direct QR codes, photo location remover | **Free** | [meridibrand.com/tools](https://meridibrand.com/tools) |
 | 🗺️ **MeridiAtlas** | GIS for the Rest of Us | In Development | — |
 | 📔 **MeridiDiary** | Your Journey, Your Map | Planned | — |
 
@@ -118,12 +119,13 @@ Want to share your snippets, request features, or discuss the future of MeridiSy
 | 🌊 **MeridiDepths** | 海面から海溝の底まで潜る深海図鑑 — 生き物・沈没船・記録 230 件以上、世界の 11 か所 | 無料 | [meridibrand.com/depths](https://meridibrand.com/depths) |
 | 🎮 **MeridiPlay** | 無料ブラウザゲーム18種 — カジノ・占い・駄菓子屋レトロ | 無料 | [meridibrand.com/play](https://meridibrand.com/play) |
 | 🧮 **MeridiConvert** | 尺・坪・合も使える単位変換、方眼紙の作図、現場の計算 | 無料 | [meridibrand.com/convert](https://meridibrand.com/convert) |
+| 🧰 **Meridi Tools** | 広告なし・通信なしの道具箱 — タイマー、テキスト整形、ダイス、QR コード、写真の位置情報を消す | 無料 | [meridibrand.com/tools](https://meridibrand.com/tools)|
 | 🗺️ **MeridiAtlas** | 地図インテリジェンスツール | 開発中 | — |
 | 📔 **MeridiDiary** | あなたの旅、あなたの地図 | 計画中 | — |
 
 ---
 
-💻 MeridiSync → 📅 MeridiMeet → 🐾 MeridiLingo → 🌌 MeridiStars → 🪨 MeridiGround → 🌊 MeridiDepths → 🎮 MeridiPlay → 🧮 MeridiConvert → 🗺️ MeridiAtlas → 📔 MeridiDiary
+📅 MeridiMeet → 🐾 MeridiLingo → 💻 MeridiSync → 🌌 MeridiStars → 🪨 MeridiGround → 🌊 MeridiDepths → 🎮 MeridiPlay → 🧮 MeridiConvert → 🧰 Meridi Tools → 🗺️ MeridiAtlas → 📔 MeridiDiary
 
 ---
 
