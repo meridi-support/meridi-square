@@ -4,12 +4,14 @@
 
 A lightweight, high-speed snippet management tool designed to streamline your daily typing tasks.
 
-- **Community-Driven:** Now at v1.0.1, this project thrives on collective wisdom. Bring your ideas, feedback, and "mad scientist" tweaks to help evolve this tool together!
+- **Community-Driven:** Now at v1.0.2, this project thrives on collective wisdom. Bring your ideas, feedback, and "mad scientist" tweaks to help evolve this tool together!
+- 
+## 🆕 What's New — v1.0.2 (2026-11-26)
 
-## 🆕 What's New — v1.0.1 (2026-11-18)
+Faster & more accurate expansion — no more leftover letters or stray "v", reliable pasting in slow apps (Excel, browsers), sharp text on scaled displays, and input pop-ups ready to type. Your existing snippets carry over as-is.
+> 💡 Type triggers with English input — while a Japanese / Chinese / Korean IME is composing, MeridiSync waits so your text is never broken.
 
-11 bug fixes & 4 improvements — pinning, `{input:}` cancel, reset, clipboard restore, language switching, window size and more. Your existing snippets carry over as-is.
-👉 [Full release notes](https://github.com/meridi-support/meridi-square/releases/tag/v1.0.1)
+👉 [Full release notes](https://github.com/meridi-support/meridi-square/releases/tag/v1.0.2)
 
 ## 📥 Download & Store
 
@@ -26,7 +28,7 @@ A lightweight, high-speed snippet management tool designed to streamline your da
 
 Experience MeridiSync in your browser — no download, no signup required.
 
-🔗 **[Launch Demo](https://meridi-support.github.io/meridisync-demo/)**
+🔗 **[Try it on meridibrand.com/sync](https://meridibrand.com/sync/)** · [Full demo](https://meridi-support.github.io/meridisync-demo/)
 
 ## 🚀 Overview
 
@@ -65,7 +67,7 @@ MeridiSync comes with 4 practical templates pre-installed:
 | Spec | Detail |
 |---|---|
 | Category | Offline Text Expander / Productivity Tool |
-| Version | v1.0.1 (2026-11-18) |
+| Version | v1.0.2 (2026-11-26) |
 | Price | $8 / ¥1,000 (one-time — no subscription, ever) |
 | License | MIT (mod-friendly — customize freely) |
 | Size | 29.9 MB (portable ZIP — no install needed) |
@@ -90,13 +92,13 @@ MeridiSync comes with 4 practical templates pre-installed:
 
 ## 🛠️ Tweak-Friendly & Contribution Welcome
 
-MeridiSync is currently at v1.0.1. We are looking forward to evolving this tool together with your ideas and insights!
+MeridiSync is currently at v1.0.2. We are looking forward to evolving this tool together with your ideas and insights!
 
 - **Call for Ideas:** If you have a lightweight Python approach, please feel free to share your ideas, solutions, or PRs on GitHub!
 
 ## ⚙️ 魔改造・アイデアの募集について
 
-本作は現在 v1.0.1 です。皆様のアイデアや知恵で、このツールをさらに昇華させていただければ幸いです。
+本作は現在 v1.0.2 です。皆様のアイデアや知恵で、このツールをさらに昇華させていただければ幸いです。
 
 - **求む知見:** Python で軽量に作るベストプラクティスやスマートなコーディングアイデアをお持ちの方は、ぜひGitHubで知恵を貸してください（魔改造推奨です！）。
 
@@ -116,9 +118,9 @@ Want to share your snippets, request features, or discuss the future of MeridiSy
 
 | Tool | Description | Link | Live Demo |
 |---|---|---|---|
-| 💻 **MeridiSync** | High-speed snippet manager (Windows) | [Gumroad ($8)](https://meridius4.gumroad.com/l/meridisync) / [BOOTH (¥1,000)](https://meridistore.booth.pm/items/8790105) | [Try Free](https://meridi-support.github.io/meridisync-demo/) |
+| 💻 **MeridiSync** | High-speed snippet manager (Windows) | [Gumroad (&#36;8)](https://meridius4.gumroad.com/l/meridisync) / [BOOTH (¥1,000)](https://meridistore.booth.pm/items/8790105) | [Try Free](https://meridibrand.com/sync/) |
 | 📅 **MeridiMeet** | Multi-Timezone Scheduler — No ads, No signup | [Gumroad (Free)](https://meridius4.gumroad.com/l/meridimeet) / [BOOTH (Free)](https://meridistore.booth.pm/items/8814602) | [meridibrand.com/meet](https://meridibrand.com/meet) |
-| 🐾🪄 **MeridiLingo** | 760+ expressions & AI prompts — Language, Culture & AI Prompt Vocabulary | [Gumroad (Free)](https://meridius4.gumroad.com/l/meridilingo) / [BOOTH (Free)](https://meridistore.booth.pm/items/8992102) | [meridibrand.com/lingo](https://meridibrand.com/lingo) |
+| 🐾🪄 **MeridiLingo** | 900+ expressions & AI prompts — Language, Culture & AI Prompt Vocabulary | [Gumroad (Free)](https://meridius4.gumroad.com/l/meridilingo) / [BOOTH (Free)](https://meridistore.booth.pm/items/8992102) | [meridibrand.com/lingo](https://meridibrand.com/lingo) |
 | 🌌 **MeridiStars** | Planetarium — 88 constellations, 119 locations | Free | [meridibrand.com/stars](https://meridibrand.com/stars) |
 | 🪨 **MeridiGround** | From the sky to Earth's core — rock layers, volcanoes, plate tectonics & 11 world stages | Free | [meridibrand.com/ground](https://meridibrand.com/ground) |
 | 🌊 **MeridiDepths** | Dive to the deepest ocean — 230+ sea creatures, shipwrecks & records, 11 deep places | Free | [meridibrand.com/depths](https://meridibrand.com/depths) |
@@ -132,9 +134,9 @@ Want to share your snippets, request features, or discuss the future of MeridiSy
 
 | ツール | 説明 | リンク | ライブデモ |
 |---|---|---|---|
-| 💻 **MeridiSync** | 高速スニペット管理ツール (Windows) | [BOOTH (¥1,000)](https://meridistore.booth.pm/items/8790105) | [無料で体験](https://meridi-support.github.io/meridisync-demo/) |
+| 💻 **MeridiSync** | 高速スニペット管理ツール (Windows) | [BOOTH (¥1,000)](https://meridistore.booth.pm/items/8790105) | [無料で体験](https://meridibrand.com/sync/) |
 | 📅 **MeridiMeet** | 時差調整ツール — 広告なし・登録不要 | [BOOTH (無料)](https://meridistore.booth.pm/items/8814602) | [meridibrand.com/meet](https://meridibrand.com/meet) |
-| 🐾🪄 **MeridiLingo** | 760以上の表現と AI プロンプト — 言語・文化・AIプロンプト語彙集 | [BOOTH (無料)](https://meridistore.booth.pm/items/8992102) | [meridibrand.com/lingo](https://meridibrand.com/lingo) |
+| 🐾🪄 **MeridiLingo** | 900以上の表現と AI プロンプト — 言語・文化・AIプロンプト語彙集 | [BOOTH (無料)](https://meridistore.booth.pm/items/8992102) | [meridibrand.com/lingo](https://meridibrand.com/lingo) |
 | 🌌 **MeridiStars** | ブラウザで動くプラネタリウム — 88星座・世界119か所 | 無料 | [meridibrand.com/stars](https://meridibrand.com/stars) |
 | 🪨 **MeridiGround** | 空の上から地球の中心まで — 地層・火山・プレート、世界の 11 か所 | 無料 | [meridibrand.com/ground](https://meridibrand.com/ground) |
 | 🌊 **MeridiDepths** | 海面から海溝の底まで潜る深海図鑑 — 生き物・沈没船・記録 230 件以上、世界の 11 か所 | 無料 | [meridibrand.com/depths](https://meridibrand.com/depths) |
@@ -162,7 +164,8 @@ MeridiSyncは、日常のタイピング作業を効率化するスニペット�
 
 - **コンセプト:** 広告なし、完全オフライン、極めて軽量。
 - **対応OS:** Windows専用（.exe 形式）
-- **最新版:** v1.0.1（2026-11-18）— 不具合の修正 11 件・改善 4 件
+- **最新版:** v1.0.2（2026-11-26）— 速く・正確に（最後の文字や「v」が残る不具合などを修正）
+- **ご注意:** トリガーは英字入力（A）で打ってください。日本語入力中は展開しません
 - **お問い合わせ:** [meridisupport@gmail.com](mailto:meridisupport@gmail.com)
 
 ---
