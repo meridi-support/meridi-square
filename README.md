@@ -4,14 +4,14 @@
 
 A lightweight, high-speed snippet management tool designed to streamline your daily typing tasks.
 
-- **Community-Driven:** Now at v1.0.2, this project thrives on collective wisdom. Bring your ideas, feedback, and "mad scientist" tweaks to help evolve this tool together!
+- **Community-Driven:** Now at v1.0.3, this project thrives on collective wisdom. Bring your ideas, feedback, and "mad scientist" tweaks to help evolve this tool together!
 - 
-## 🆕 What's New — v1.0.2 (2026-11-26)
+## 🆕 What's New — v1.0.3 (2026-11-26)
 
 Faster & more accurate expansion — no more leftover letters or stray "v", reliable pasting in slow apps (Excel, browsers), sharp text on scaled displays, and input pop-ups ready to type. Your existing snippets carry over as-is.
 > 💡 Type triggers with English input — while a Japanese / Chinese / Korean IME is composing, MeridiSync waits so your text is never broken.
 
-👉 [Full release notes](https://github.com/meridi-support/meridi-square/releases/tag/v1.0.2)
+👉 [Full release notes](https://github.com/meridi-support/meridi-square/releases/tag/v1.0.3)
 
 ## 📥 Download & Store
 
@@ -67,7 +67,7 @@ MeridiSync comes with 4 practical templates pre-installed:
 | Spec | Detail |
 |---|---|
 | Category | Offline Text Expander / Productivity Tool |
-| Version | v1.0.2 (2026-11-26) |
+| Version | v1.0.3 (2026-11-26) |
 | Price | $8 / ¥1,000 (one-time — no subscription, ever) |
 | License | MIT (mod-friendly — customize freely) |
 | Size | 29.9 MB (portable ZIP — no install needed) |
@@ -92,13 +92,13 @@ MeridiSync comes with 4 practical templates pre-installed:
 
 ## 🛠️ Tweak-Friendly & Contribution Welcome
 
-MeridiSync is currently at v1.0.2. We are looking forward to evolving this tool together with your ideas and insights!
+MeridiSync is currently at v1.0.3. We are looking forward to evolving this tool together with your ideas and insights!
 
 - **Call for Ideas:** If you have a lightweight Python approach, please feel free to share your ideas, solutions, or PRs on GitHub!
 
 ## ⚙️ 魔改造・アイデアの募集について
 
-本作は現在 v1.0.2 です。皆様のアイデアや知恵で、このツールをさらに昇華させていただければ幸いです。
+本作は現在 v1.0.3 です。皆様のアイデアや知恵で、このツールをさらに昇華させていただければ幸いです。
 
 - **求む知見:** Python で軽量に作るベストプラクティスやスマートなコーディングアイデアをお持ちの方は、ぜひGitHubで知恵を貸してください（魔改造推奨です！）。
 
@@ -164,7 +164,7 @@ MeridiSyncは、日常のタイピング作業を効率化するスニペット�
 
 - **コンセプト:** 広告なし、完全オフライン、極めて軽量。
 - **対応OS:** Windows専用（.exe 形式）
-- **最新版:** v1.0.2（2026-11-26）— 速く・正確に（最後の文字や「v」が残る不具合などを修正）
+- **最新版:** v1.0.3（2026-11-26）— 速く・正確に（最後の文字や「v」が残る不具合などを修正）
 - **ご注意:** トリガーは英字入力（A）で打ってください。日本語入力中は展開しません
 - **お問い合わせ:** [meridisupport@gmail.com](mailto:meridisupport@gmail.com)
 
