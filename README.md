@@ -5,10 +5,11 @@
 A lightweight, high-speed snippet management tool designed to streamline your daily typing tasks.
 
 - **Community-Driven:** Now at v1.0.3, this project thrives on collective wisdom. Bring your ideas, feedback, and "mad scientist" tweaks to help evolve this tool together!
-- 
+
 ## 🆕 What's New — v1.0.3 (2026-11-26)
 
-Faster & more accurate expansion — no more leftover letters or stray "v", reliable pasting in slow apps (Excel, browsers), sharp text on scaled displays, and input pop-ups ready to type. Your existing snippets carry over as-is.
+New look for the `{step:}` wizard — a cyan progress bar and "1 / 4", matching the demo on [meridibrand.com/sync](https://meridibrand.com/sync/).
+Also in v1.0.2 (same day): faster & more accurate expansion — no more leftover letters or stray "v", reliable pasting in slow apps (Excel, browsers), sharp text on scaled displays, and input pop-ups ready to type. Your existing snippets carry over as-is.
 > 💡 Type triggers with English input — while a Japanese / Chinese / Korean IME is composing, MeridiSync waits so your text is never broken.
 
 👉 [Full release notes](https://github.com/meridi-support/meridi-square/releases/tag/v1.0.3)
@@ -119,9 +120,10 @@ Want to share your snippets, request features, or discuss the future of MeridiSy
 | Tool | Description | Link | Live Demo |
 |---|---|---|---|
 | 💻 **MeridiSync** | High-speed snippet manager (Windows) | [Gumroad (&#36;8)](https://meridius4.gumroad.com/l/meridisync) / [BOOTH (¥1,000)](https://meridistore.booth.pm/items/8790105) | [Try Free](https://meridibrand.com/sync/) |
-| 📅 **MeridiMeet** | Multi-Timezone Scheduler — No ads, No signup | [Gumroad (Free)](https://meridius4.gumroad.com/l/meridimeet) / [BOOTH (Free)](https://meridistore.booth.pm/items/8814602) | [meridibrand.com/meet](https://meridibrand.com/meet) |
-| 🐾🪄 **MeridiLingo** | 900+ expressions & AI prompts — Language, Culture & AI Prompt Vocabulary | [Gumroad (Free)](https://meridius4.gumroad.com/l/meridilingo) / [BOOTH (Free)](https://meridistore.booth.pm/items/8992102) | [meridibrand.com/lingo](https://meridibrand.com/lingo) |
+| 📅 **MeridiMeet** | Multi-Timezone Scheduler — No ads, No signup | Free | [meridibrand.com/meet](https://meridibrand.com/meet) |
+| 🐾🪄 **MeridiLingo** | 900+ expressions & AI prompts — Language, Culture & AI Prompt Vocabulary | Free | [meridibrand.com/lingo](https://meridibrand.com/lingo) |
 | 🌌 **MeridiStars** | Planetarium — 88 constellations, 119 locations | Free | [meridibrand.com/stars](https://meridibrand.com/stars) |
+| ☁️ **MeridiSkies** | Sky & weather explorer — clouds, lightning, aurora, foehn & sky colors | Free | [meridibrand.com/skies](https://meridibrand.com/skies) |
 | 🪨 **MeridiGround** | From the sky to Earth's core — rock layers, volcanoes, plate tectonics & 11 world stages | Free | [meridibrand.com/ground](https://meridibrand.com/ground) |
 | 🌊 **MeridiDepths** | Dive to the deepest ocean — 230+ sea creatures, shipwrecks & records, 11 deep places | Free | [meridibrand.com/depths](https://meridibrand.com/depths) |
 | 🎮 **MeridiPlay** | 18 browser games — casino, fortune-telling, retro candy-shop machines | Free | [meridibrand.com/play](https://meridibrand.com/play) |
@@ -135,8 +137,9 @@ Want to share your snippets, request features, or discuss the future of MeridiSy
 | ツール | 説明 | リンク | ライブデモ |
 |---|---|---|---|
 | 💻 **MeridiSync** | 高速スニペット管理ツール (Windows) | [BOOTH (¥1,000)](https://meridistore.booth.pm/items/8790105) | [無料で体験](https://meridibrand.com/sync/) |
-| 📅 **MeridiMeet** | 時差調整ツール — 広告なし・登録不要 | [BOOTH (無料)](https://meridistore.booth.pm/items/8814602) | [meridibrand.com/meet](https://meridibrand.com/meet) |
-| 🐾🪄 **MeridiLingo** | 900以上の表現と AI プロンプト — 言語・文化・AIプロンプト語彙集 | [BOOTH (無料)](https://meridistore.booth.pm/items/8992102) | [meridibrand.com/lingo](https://meridibrand.com/lingo) |
+| 📅 **MeridiMeet** | 時差調整ツール — 広告なし・登録不要 | 無料 | [meridibrand.com/meet](https://meridibrand.com/meet) |
+| 🐾🪄 **MeridiLingo** | 900以上の表現と AI プロンプト — 言語・文化・AIプロンプト語彙集 | 無料 | [meridibrand.com/lingo](https://meridibrand.com/lingo) |
+| ☁️ **MeridiSkies** | 空と天気の図鑑 — 雲・雷・オーロラ・フェーン・空の色 | 無料 | [meridibrand.com/skies](https://meridibrand.com/skies) |
 | 🌌 **MeridiStars** | ブラウザで動くプラネタリウム — 88星座・世界119か所 | 無料 | [meridibrand.com/stars](https://meridibrand.com/stars) |
 | 🪨 **MeridiGround** | 空の上から地球の中心まで — 地層・火山・プレート、世界の 11 か所 | 無料 | [meridibrand.com/ground](https://meridibrand.com/ground) |
 | 🌊 **MeridiDepths** | 海面から海溝の底まで潜る深海図鑑 — 生き物・沈没船・記録 230 件以上、世界の 11 か所 | 無料 | [meridibrand.com/depths](https://meridibrand.com/depths) |
@@ -148,7 +151,7 @@ Want to share your snippets, request features, or discuss the future of MeridiSy
 
 ---
 
-📅 MeridiMeet → 🐾 MeridiLingo → 💻 MeridiSync → 🌌 MeridiStars → 🪨 MeridiGround → 🌊 MeridiDepths → 🎮 MeridiPlay → 🧮 MeridiConvert → 🧰 Meridi Tools → 🗺️ MeridiAtlas → 📔 MeridiDiary
+📅 MeridiMeet → 🐾 MeridiLingo → 💻 MeridiSync → 🌌 MeridiStars → ☁️ MeridiSkies → 🪨 MeridiGround → 🌊 MeridiDepths → 🎮 MeridiPlay → 🧮 MeridiConvert → 🧰 Meridi Tools → 🗺️ MeridiAtlas → 📔 MeridiDiary
 
 ---
 
@@ -164,7 +167,7 @@ MeridiSyncは、日常のタイピング作業を効率化するスニペット�
 
 - **コンセプト:** 広告なし、完全オフライン、極めて軽量。
 - **対応OS:** Windows専用（.exe 形式）
-- **最新版:** v1.0.3（2026-11-26）— 速く・正確に（最後の文字や「v」が残る不具合などを修正）
+- **最新版:** v1.0.3（2026-11-26）— {step:} の入力窓に進み具合のバー（v1.0.2 で速く・正確に）
 - **ご注意:** トリガーは英字入力（A）で打ってください。日本語入力中は展開しません
 - **お問い合わせ:** [meridisupport@gmail.com](mailto:meridisupport@gmail.com)
 
